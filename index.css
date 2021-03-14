@@ -1,0 +1,12 @@
+.first {
+  color: blueviolet;
+  margin: 10px;
+}
+
+.second {
+  background: chartreuse;
+  width: 600px;
+  margin: 20px;
+  padding: 30px;
+  text-align: center;
+}

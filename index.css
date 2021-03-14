@@ -1,12 +1,41 @@
-.first {
-  color: blueviolet;
-  margin: 10px;
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Syne+Mono&display=swap");
+
+body {
+  margin: 0 auto;
+  max-width: 1100px;
+  background-color: #222;
+  color: cadetblue;
+  font-family: "Syne Mono", monospace;
 }
 
-.second {
-  background: chartreuse;
-  width: 600px;
-  margin: 20px;
-  padding: 30px;
+h1 {
+  color: crimson;
+  font-size: 100px;
   text-align: center;
+}
+
+h3 {
+  font-size: 45px;
+  text-align: center;
+}
+
+div {
+  font-family: "Roboto", sans-serif;
+}
+
+.section1 {
+  display: flex;
+  align-items: center;
+}
+
+.section1__text {
+  color: white;
+  font-size: 22px;
+  text-align: justify;
+  margin-right: 25px;
+}
+
+.section1__img {
+  height: 200px;
+  width: 200px;
 }

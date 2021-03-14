@@ -23,19 +23,25 @@ div {
   font-family: "Roboto", sans-serif;
 }
 
-.section1 {
+.spacer_horizontal {
+  border: 1px dashed white;
+  margin: 10px;
+}
+
+.section {
   display: flex;
   align-items: center;
 }
 
-.section1__text {
+.section__text {
   color: white;
   font-size: 22px;
   text-align: justify;
-  margin-right: 25px;
+  margin: 10px;
 }
 
-.section1__img {
+.section__img {
   height: 200px;
   width: 200px;
+  margin: 10px;
 }

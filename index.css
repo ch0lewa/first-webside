@@ -71,3 +71,8 @@ div {
   width: 300px;
   margin: 10px;
 }
+
+.flex__horizontal {
+  display: flex;
+  justify-content: space-evenly;
+}

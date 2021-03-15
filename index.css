@@ -59,3 +59,15 @@ div {
   width: 500px;
   margin: 10px;
 }
+
+.section__img__medium {
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+}
+
+.section__img__large2 {
+  height: 400px;
+  width: 300px;
+  margin: 10px;
+}
